@@ -141,7 +141,7 @@ In order to not litter your HTML with `<slot>` tags, Enhance will convert any un
 
 ### `as` attribute
 
-One feature Enhance adds to slots is you can use an `as` attribute to specify what type of element you would like Enhance to replace the unused slot with.
+One feature Enhance adds to slots is that you can use an `as` attribute to specify what type of element you would like Enhance to replace the unused slot with.
 
 To use the `as` attribute, supply the attribute with a valid element name:
 
