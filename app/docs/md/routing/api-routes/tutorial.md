@@ -100,7 +100,7 @@ Now anytime `POST /count` receives a request for JSON it will get `{ count }`.
 
 Create a completely vanilla JS upgrade for the custom element:
 
-<doc-code filename="public/form-count.mjs" numbered>
+<doc-code filename="public/form-counter.mjs" numbered>
 
 ```javascript
 export class Counter extends HTMLElement {
